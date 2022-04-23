@@ -414,3 +414,17 @@ header {
   font-size: 14px;
   margin: 10px 0px;
 }
+
+/* Add some margin between each section */
+
+main > section { 
+  margin-bottom: 2rem;
+}
+
+.header-hero-container { 
+  min-height: 100vh;
+}
+
+.header-hero-container header { 
+  margin-bottom: 1rem;
+}
