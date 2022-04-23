@@ -8,4 +8,4 @@ I use this Template just to practice & improve my skills.
 2. CSS
 3. Font-Awesome
 
-(https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/ab3af8136762233.61ffb320d0e0e.png)
+![Uploading image.png…](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/ab3af8136762233.61ffb320d0e0e.png)
